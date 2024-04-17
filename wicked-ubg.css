@@ -1,0 +1,140 @@
+body {
+  margin: 0px;
+	background: black;
+}
+.navbar {
+  background-color: #1c1c1c;
+  height: 100%;
+  width: 185px;
+  float: left;
+  padding-left: 10px;
+  position: fixed;
+  overflow: auto;
+  white-space: nowrap;
+}
+.center {
+  display: block;
+  margin-left: 1px;
+  margin-right: auto;
+  width: 75%;
+  height: 72;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.center:hover {
+  margin-left: 5%;
+  transition: 0.25s ease;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+li a {
+  font-family: 'Gothic A1 Medium';
+  font-size: 14pt;
+  font-style: none;
+  display: block;
+  color: #FFFFFF;
+  padding: 8px 0 8px 8px;
+  text-decoration: none;
+}
+li a:hover {
+  margin-left: .4em;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'Gothic A1 ExtraBold';
+  color: #C5C5C5;
+}
+/* width */ ::-webkit-scrollbar {
+  width: 5px;
+}
+/* Track */ ::-webkit-scrollbar-track {
+  background: #00000;
+}
+/* Handle */ ::-webkit-scrollbar-thumb {
+  background: #474747;
+}
+/* Handle on hover */ ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.header {
+  font-family: 'Gothic A1 Black';
+  margin-left: 195px;
+  padding-left: 48px;
+  padding-right: 58px;
+  margin-bottom: 25px;
+  font-size: 75px;
+  text-align: left;
+  padding-top: 1px;
+	padding-bottom: 25px;
+  position: relative;
+  background-color: white;
+}
+.header img {
+  float: right;
+  margin-top: 50px;
+  position: relative;
+}
+.main {
+  margin-left: 195px;
+  background-color: black;
+  height: 100px;
+  position: relative;
+}
+.main h1 {
+  font-family: 'Gothic A1 Black';
+  color: white;
+  width: 75%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 1em;
+}
+.featured {
+  padding-left: 350px;
+  padding-right: 200px;
+  display: grid;
+  grid-gap: 100px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  background-color: black;
+  text-align: center;
+}
+.featured img {
+  width: 100%;
+  border-style: solid;
+  border-width: 3px;
+  border-color: aliceblue;
+  border-radius: 5px;
+}
+.featured a {
+  text-decoration: none;
+  color: #9F9292;
+  font-family: "Gothic A1 ExtraBold";
+}
+.featured img:hover {
+  box-shadow: 0px 5px 5px 0px rgba(240, 240, 240, 0.75)
+}
+.head {
+	  font-family: 'Gothic A1 Black';
+  margin-left: 195px;
+  padding-left: 48px;
+  padding-right: 58px;
+  margin-bottom: 25px;
+	padding-bottom: 50px;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
+  position: relative;
+  background-color: white;
+}
+.game {
+	margin-left: 195px;
+	display: block;
+	align-items: center;
+}
+.game p {
+	text-align: center;
+}
+@media (max-width: 2198px) {}
+@media (max-width : 185px) {}

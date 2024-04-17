@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title><link href="wicked-ubg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="navbar"> <a href="index.html"><img src="Images/logo.jpg" class="center" alt="logo"/></a>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="bitlife.html">Bitlife</a></li>
+    <li><a href="privacy.html">Privacy</a></li>
+    <li><a href="all-games.html">All Games</a></li>
+  </ul>
+</div>
+	
+	<div class="head">Bitlife&nbsp;</div>
+	<div class="game">
+	<p><iframe src="https://games-cloudflare.notapr0xy.com.au/bitlife/" height="773" width="479" title="Iframe Example"></iframe></p>
+	</div>
+	<center>
+<button onclick="openGame()" style="margin-left: 195px; background-color: white; color: black; border: 1; border-color: #0b6bb4; vertical-align: center; font-size: 26px; width:25%; cursor: pointer; border-radius: 10px;"> Fullscreen </button>
+<script>
+function openGame() {
+	var win = window.open ()
+	var url = "https://games-cloudflare.notapr0xy.com.au/bitlife/"
+
+	var iframe = win.document.createElement('iframe')
+	iframe.style.width = "100%"
+	iframe.style.height = "100%"
+	iframe.style.border = "none"
+	iframe.src = url
+	win.document.body.appendChild(iframe)
+}
+</script>
+</center>
+</body>
+</html>
