@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="526" viewBox="0 0 370 526">
+  <defs>
+    <filter id="Rectangle" x="13.5" y="15.5" width="343" height="499" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="0" y="0" width="370" height="526" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="6" y="11" width="358" height="514" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Dark_Menus_3_States_Large_Scroll_Dropdown" data-name="Dark 🌑/ Menus (3 States) / Large Scroll Dropdown" transform="translate(21 18)">
+    <g id="Dark_Elevation_00dp_9_States_" data-name="Dark 🌑/Elevation/00dp (9 States)">
+      <g id="Shadow">
+        <g transform="matrix(1, 0, 0, 1, -21, -18)" filter="url(#Rectangle)" style="mix-blend-mode: multiply;isolation: isolate">
+          <rect id="Rectangle-4" data-name="Rectangle" width="328" height="484" rx="4" transform="translate(21 18)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21, -18)" filter="url(#Rectangle-2)" style="mix-blend-mode: multiply;isolation: isolate">
+          <rect id="Rectangle-5" data-name="Rectangle" width="328" height="484" rx="4" transform="translate(21 18)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21, -18)" filter="url(#Rectangle-3)" style="mix-blend-mode: multiply;isolation: isolate">
+          <rect id="Rectangle-6" data-name="Rectangle" width="328" height="484" rx="4" transform="translate(21 18)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle-7" data-name="Rectangle" width="328" height="484" rx="4" fill="#121212"/>
+      <rect id="On_Surface" data-name="On Surface" width="328" height="484" rx="4" fill="rgba(255,255,255,0.12)"/>
+    </g>
+    <g id="List">
+      <g id="Dark_Lists_Single-line_5_States_" data-name="Dark 🌑 / Lists/Single-line (5 States)">
+        <rect id="_Elevation" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_2" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 48)">
+        <rect id="_Elevation-2" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-2" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-2" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-2" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-2" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-2" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_3" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 96)">
+        <rect id="_Elevation-3" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-3" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-3" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-3" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-3" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-3" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_4" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 144)">
+        <rect id="_Elevation-4" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-4" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-4" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-4" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-4" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-4" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_5" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 192)">
+        <rect id="_Elevation-5" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-5" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-5" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-5" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-5" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-5" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_6" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 240)">
+        <rect id="_Elevation-6" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-6" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-6" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-6" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-6" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-6" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_7" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 288)">
+        <rect id="_Elevation-7" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-7" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-7" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-7" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-7" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-7" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_8" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 336)">
+        <rect id="_Elevation-8" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-8" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-8" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-8" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-8" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-8" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_9" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 384)">
+        <rect id="_Elevation-9" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-9" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-9" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-9" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-9" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-9" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <g id="Dark_Lists_Single-line_5_States_10" data-name="Dark 🌑 / Lists/Single-line (5 States)" transform="translate(0 432)">
+        <rect id="_Elevation-10" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+        <rect id="_States-10" data-name="💡States" width="328" height="48" fill="none"/>
+        <g id="_Icon-10" data-name="📍Icon" transform="translate(288 12)">
+          <rect id="Boundary-10" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-10" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(255,255,255,0.6)"/>
+        </g>
+        <text id="_Subtitle_1-10" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(255,255,255,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Subtitle 1 </tspan></text>
+      </g>
+      <rect id="_States-11" data-name="💡States" width="328" height="48" transform="translate(0 144)" fill="rgba(255,255,255,0.08)"/>
+    </g>
+    <rect id="Scrollbar" width="4" height="40" rx="2" transform="translate(320 10)" fill="rgba(255,255,255,0.38)"/>
+  </g>
+</svg>
